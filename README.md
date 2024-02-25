@@ -12,7 +12,7 @@
 
 
 <h3> Math Problems </h3>
-- <b> Leslie Matrix (UFMS) </b> </br>
+- <b> [Leslie Matrix](https://github.com/mateus-moreli/leslie-matrix) </b> </br>
 - <b> Prime Numbers </b> </br>
 - <b> Triangular Numbers </b> </br>
 - <b> LU Decomposition </b> </br>
