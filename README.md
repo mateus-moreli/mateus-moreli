@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Some of my Projects:</h2>
 <h3> Sites </h3>
-- <b> Seal-abrate! </b> </br> 
+- <b> Seal-abrate! 🦭 </b> </br> 
 - <b> News 🗞️ </b> </br>
 - <b> Meet this band! 🎸 </b> </br>
 - <b> Recipe 📜 </b> </br>
@@ -41,8 +41,6 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/raposapaodeforma/
+<b> Instagram 📌: https://www.instagram.com/raposapaodeforma/ </b> 
 
 
