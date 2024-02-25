@@ -1,7 +1,29 @@
 <h1>Mateus' Tech Tower 🏰 <br/>
 
+<h2>About Me!</h2>
+
+```js
+import Desenvolvedor from "mateus-moreli";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Mateus Moreli";
+  estudo = "Ciência da Computação";
+  semestre = "3º semestre";
+  local = "Campo Grande";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = [C, C++, Python, JS, CSS, HTML];
+  bibliotecas = [NumPy, Pygame, Pandas, React, Angular];
+}
+```
+# ⭐ GitHub Stats
+
+![mateus-moreli's Stats](https://github-readme-stats.vercel.app/api?username=mateus-moreli&theme=gotham&show_icons=true&hide_border=true&count_private=false)
+
 <h2>👨‍💻 Some of my Projects:</h2>
 <h3> Sites </h3>
+
 - <b> Seal-abrate! 🦭 </b> </br> 
 - <b> News 🗞️ </b> </br>
 - <b> Meet this band! 🎸 </b> </br>
@@ -12,6 +34,7 @@
 
 
 <h3> Math Problems </h3>
+
 - <b> [Leslie Matrix](https://github.com/mateus-moreli/leslie-matrix) </b> </br>
 - <b> Prime Numbers </b> </br>
 - <b> Triangular Numbers </b> </br>
@@ -37,6 +60,7 @@
 - <b> 2202 </b>
 --->
 <h3> Arduino </h3>
+
 - <b> Calculadora 🖩 </b> </br>
   
 <h2> 🤳 Connect with me:</h2>
