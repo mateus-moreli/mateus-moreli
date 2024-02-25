@@ -25,7 +25,7 @@ class Skills extends Desenvolvedor {
 <h3> Sites </h3>
 
 - <b> Seal-abrate! 🦭 </b> </br> 
-- <b> News 🗞️ </b> </br>
+- <b> [News](https://github.com/mateus-moreli/music-news) 🗞️ </b> </br>
 - <b> Meet this band! 🎸 </b> </br>
 - <b> Recipe 📜 </b> </br>
 - <b> MySpace-ish Top Friends Ranking 💀 </b> </br>
@@ -36,11 +36,12 @@ class Skills extends Desenvolvedor {
 <h3> Math Problems </h3>
 
 - <b> [Leslie Matrix](https://github.com/mateus-moreli/leslie-matrix) </b> </br>
-- <b> Prime Numbers </b> </br>
-- <b> Triangular Numbers </b> </br>
-- <b> LU Decomposition </b> </br>
-- <b> Magic Square </b> </br>
+- <b> [Prime Numbers](https://github.com/mateus-moreli/math-problems/blob/main/max-prime-below.c) </b> </br>
+- <b> [Triangular Numbers](https://github.com/mateus-moreli/math-problems/blob/main/triangular-numbers.c) </b> </br>
+- <b> [LU Decomposition](https://github.com/mateus-moreli/math-problems/blob/main/LU-decomp.c) (incomplete) </b> </br>
 <!--
+- <b> Magic Square </b> </br>
+
 <h3> Beecrowd </h3>
 - <b> 1040 </b>
 - <b> 1042 </b>
@@ -61,7 +62,7 @@ class Skills extends Desenvolvedor {
 --->
 <h3> Arduino </h3>
 
-- <b> Calculadora 🖩 </b> </br>
+- <b> Calculator 🖩 </b> </br>
   
 <h2> 🤳 Connect with me:</h2>
 
