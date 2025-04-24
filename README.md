@@ -1,29 +1,17 @@
-<h1>Mateus' Tech Tower 🏰 <br/>
+<h1>Mateus' Tech Tower  <br/>
 
 <h2>About Me!</h2>
 
-# ⭐ GitHub Stats
+<h3>Some of the projects I've been working on</h3>
 
-![mateus-moreli's Stats](https://github-readme-stats.vercel.app/api?username=mateus-moreli&theme=gotham&show_icons=true&hide_border=true&count_private=false)
-
-<h2>👨‍💻 Some of my Projects:</h2>
-<h3> Sites </h3>
-
-- <b> [Seal-abrate!](https://github.com/mateus-moreli/seal-site) 🦭 </b> </br> 
-- <b> [News](https://github.com/mateus-moreli/music-news) 🗞️ </b> </br>
-- <b> [Meet this band!](https://github.com/mateus-moreli/band-site) 🎸 </b> </br>
-- <b> [Recipe](https://github.com/mateus-moreli/recipe-site) 📜 </b> </br>
 - <b> [MySpace-ish Top Friends Ranking 💀](https://github.com/mateus-moreli/myspace-lookalike) </b> </br>
-- <b> [Wiki Article](https://github.com/mateus-moreli/wiki-site) 🔍 </b> </br>
-- <b> [TechWare Solutions](https://github.com/mateus-moreli/mockup-site) </b> </br> 
-
-
-<h3> Math Problems </h3>
-
+- <b> [Euler's Project](https://github.com/mateus-moreli/EulersProject) 🔍 </b> </br>
 - <b> [Leslie Matrix](https://github.com/mateus-moreli/leslie-matrix) </b> </br>
 - <b> [Prime Numbers](https://github.com/mateus-moreli/math-problems/blob/main/max-prime-below.c) </b> </br>
 - <b> [Triangular Numbers](https://github.com/mateus-moreli/math-problems/blob/main/triangular-numbers.c) </b> </br>
 - <b> [LU Decomposition](https://github.com/mateus-moreli/math-problems/blob/main/LU-decomp.c) (incomplete) </b> </br>
+- <b> [Arduino](https://github.com/mateus-moreli/arduino) </b></br>
+
 <!--
 - <b> Magic Square </b> </br>
 
@@ -45,9 +33,7 @@
 - <b> 1180 </b>
 - <b> 2202 </b>
 --->
-<h3> Arduino </h3>
 
-- <b> [Calculator](https://github.com/mateus-moreli/arduino) 🖩 </b> </br>
   
 <h2> 🤳 Connect with me:</h2>
 
