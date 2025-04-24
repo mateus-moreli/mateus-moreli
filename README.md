@@ -2,21 +2,6 @@
 
 <h2>About Me!</h2>
 
-```js
-import Desenvolvedor from "mateus-moreli";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Mateus Moreli";
-  estudo = "Ciência da Computação";
-  semestre = "3º semestre";
-  local = "Campo Grande";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = [C, C++, Python, JS, CSS, HTML];
-  bibliotecas = [NumPy, Pygame, Pandas, React, Angular];
-}
-```
 # ⭐ GitHub Stats
 
 ![mateus-moreli's Stats](https://github-readme-stats.vercel.app/api?username=mateus-moreli&theme=gotham&show_icons=true&hide_border=true&count_private=false)
